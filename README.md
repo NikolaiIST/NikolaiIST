@@ -1,6 +1,7 @@
 
-### Hi there 👋
-![cyberpunk-skyline-banner-v0-0utop5gh6ih81](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/581175bd-94f7-4cd7-abac-6f41a6cee390)
+### How is it going, mates?
+
+![bc87e5124f8d2cfe810d403adc96ad01](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/61c58dae-ec84-4592-bd00-9808f0c45149)
 
 Hi! I'm Nicolás Matheus, a systems and telecommunications engineering student at Universidad Catolica de Pereira (Colombia) 🌱.
 
@@ -12,7 +13,7 @@ In web development, I know JavaScript, HTML, CSS and React, and I also have know
 
 One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾
 
-![terraria (1)](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/af353558-3bda-467d-8bee-489375870478)
+![godot](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/5fc42fa3-58cd-4dd5-9b06-a38cd6b11bde)
 
 Besides programming, I love to read and learn about new technologies. I am always looking for ways to improve my skills and knowledge.
 

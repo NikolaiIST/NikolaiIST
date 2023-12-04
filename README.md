@@ -1,7 +1,8 @@
 
 ### How is it going, mates?
 
-![bc87e5124f8d2cfe810d403adc96ad01](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/61c58dae-ec84-4592-bd00-9808f0c45149)
+![Banner](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/c7203475-bba9-4367-832a-4e476886f54e)
+
 
 Hi! I'm Nicolás Matheus, a systems and telecommunications engineering student at Universidad Catolica de Pereira (Colombia) 🌱.
 
@@ -13,7 +14,7 @@ In web development, I know JavaScript, HTML, CSS and React, and I also have know
 
 One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾
 
-![godot](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/5fc42fa3-58cd-4dd5-9b06-a38cd6b11bde)
+                          ![godot](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/3ac0df87-84b6-45f7-b9a2-5556ea3433ef)
 
 Besides programming, I love to read and learn about new technologies. I am always looking for ways to improve my skills and knowledge.
 
@@ -30,4 +31,3 @@ I look forward to working with you in the future!
 Best regards!
 
 ![ezgif com-gif-maker](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/f2e804be-dfa3-49f6-a372-4261f01a6be0)
-

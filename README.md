@@ -10,7 +10,7 @@ In web development, I know JavaScript, HTML, CSS and React, and I also have know
 
 One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾
 
-![terraria](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/9e083c5a-21a4-44f6-9a2c-817d18697dad)
+![terraria (1)](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/af353558-3bda-467d-8bee-489375870478)
 
 Besides programming, I love to read and learn about new technologies. I am always looking for ways to improve my skills and knowledge.
 

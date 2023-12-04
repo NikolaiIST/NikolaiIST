@@ -1,10 +1,9 @@
 
-### How is it going, mates?
+### How is it going, mates?👺
 
 <p align="center">
-  <img src="https://github.com/NikolaiIST/NikolaiIST/assets/150312544/e2c79612-cfde-4407-b966-62f8cdf17414" alt="Banner">
+  <img src="https://github.com/NikolaiIST/NikolaiIST/assets/150312544/1fa3d0a6-668e-4c57-b234-0cc935c0ca68" alt="Banner">
 </p>
-
 
 Hi! I'm Nicolás Matheus, a systems and telecommunications engineering student at Universidad Catolica de Pereira (Colombia) 🌱.
 
@@ -24,8 +23,6 @@ One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾
 
 Besides programming, I love to read and learn about new technologies. I am always looking for ways to improve my skills and knowledge.
 
-In my free time, I like to spend time with my friends and family, play video games and listen to music.
-
 If you have a project in mind, feel free to contact me - I'm always willing to help!
 
 I'm excited to see what the future of technology has to offer. I'm sure it will continue to play an important role in our lives.
@@ -36,6 +33,9 @@ I look forward to working with you in the future!
 
 Best regards!
 
+<p align="center">
+  ~We are a line of code in a dark void of bits.
+</p>
 <p align="center">
   <img src="https://github.com/NikolaiIST/NikolaiIST/assets/150312544/f2e804be-dfa3-49f6-a372-4261f01a6be0" alt="pepe">
 </p>

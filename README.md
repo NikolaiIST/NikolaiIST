@@ -31,7 +31,9 @@ I'm excited to see what the future of technology has to offer. I'm sure it will 
 # Some Of My Projects
 
 Just go check my repositories, it's not that hard.
-Here is a link btw: 
+Here is a link btw: https://github.com/NikolaiIST?tab=repositories
+
+#
 
 Thanks for visiting my profile!
 

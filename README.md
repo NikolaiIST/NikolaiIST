@@ -6,6 +6,8 @@ Hi! I'm Nicolás Matheus, a systems and telecommunications engineering student a
 
 I consider myself a self-taught person passionate about technology, especially programming. My favorite language is Java, but I also have experience in C++, C# and Python. 👆🤓
 
+![Languages](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/e2c79612-cfde-4407-b966-62f8cdf17414)
+
 In web development, I know JavaScript, HTML, CSS and React, and I also have knowledge of SQL databases.
 
 One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾

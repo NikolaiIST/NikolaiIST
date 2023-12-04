@@ -14,7 +14,7 @@ In web development, I know JavaScript, HTML, CSS and React, and I also have know
 
 One of my future goals is the creation of 2D games from 16 to 32 Bits.🎮👾
 
-                          ![godot](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/3ac0df87-84b6-45f7-b9a2-5556ea3433ef)
+  ![godot](https://github.com/NikolaiIST/NikolaiIST/assets/150312544/3ac0df87-84b6-45f7-b9a2-5556ea3433ef)
 
 Besides programming, I love to read and learn about new technologies. I am always looking for ways to improve my skills and knowledge.
 

@@ -1,5 +1,5 @@
 
-### How Is It Going, Mates?👺
+### What up?👻
 
 <p align="center">
   <img src="https://github.com/NikolaiIST/NikolaiIST/assets/150312544/1fa3d0a6-668e-4c57-b234-0cc935c0ca68" alt="Banner">
